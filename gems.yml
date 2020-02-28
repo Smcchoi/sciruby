@@ -329,7 +329,7 @@ ruby-minisat:
   description: SAT solver
   module: MiniSat
   require: minisat
-  version: "~> 2.2"
+  version: ">= 2.2"
 ruby-netcdf:
   category: data
   description: Data file
